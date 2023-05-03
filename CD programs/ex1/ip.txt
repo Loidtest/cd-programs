@@ -1,0 +1,4 @@
+int s,a;
+char n;
+float j,a;
+double y;
